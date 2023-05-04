@@ -1,12 +1,15 @@
+(https://github.com/Duke29/Duke29/blob/main/Hello%2C%20World!!.png)
 ### Hi there 👋, my name is Sri Hari
 #### Machine Learning && App Developement
-![Machine Learning && App Developement](https://github.com/Duke29/Duke29/blob/main/Hello%2C%20World!!.png)
+##Skills
+* 🐧 Linux
+* 💻 Python && Java && C/C++ && Flutter
+![Machine Learning && App Developement]
 
 Hello, I am Sri Hari, an aspiring ML Enthusiast and Programmer, and a wannabe App developer.
 I will be logging my journey here and would learn to hear from and collaborate on projects.
 
 
-Skills: Python&&C/C++&&Flutter&&JAVA&&Mojo
 
 - 🔭 I’m currently working on Learning ML and App developement 
 - 🌱 I’m currently learning ML 
