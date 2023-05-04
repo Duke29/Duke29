@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Sri Hari
 #### Machine Learning && App Developement
-![Machine Learning && App Developement](https://pbs.twimg.com/profile_banners/4313711899/1683211661/600x200)
+![Machine Learning && App Developement](https://github.com/Duke29/Duke29/blob/main/Hello%2C%20World!!.png)
 
 Hello, I am Sri Hari, an aspiring ML Enthusiast and Programmer, and a wannabe App developer.
 I will be logging my journey here and would learn to hear from and collaborate on projects.
