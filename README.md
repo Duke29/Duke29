@@ -17,7 +17,10 @@ I will be logging my journey here and would learn to hear from and collaborate o
 - 🤔 I’m looking for help with Machine Learning 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Duke29)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sri-hari-sai-p-b2041621b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/@sri_hari_sai/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@PSriHariSai48)  
+[<img src='https://github.com/Duke29/Duke29/blob/main/icons8-github.svg' alt='github' height='40'>](https://github.com/Duke29)  [<img src='https://github.com/Duke29/Duke29/blob/main/icons8-linkedin-100.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/sri-hari-sai-p-b2041621b//)  [<img src='https://github.com/Duke29/Duke29/blob/main/icons8-instagram.svg' height='40'>](https://www.instagram.com/@sri_hari_sai/)  [<img src='https://github.com/Duke29/Duke29/blob/main/icons8-twitter-100.png' height='40'>](https://twitter.com/@PSriHariSai48)  
+
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duke29)](https://github.com/anuraghazra/github-readme-stats)
 
