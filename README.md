@@ -17,11 +17,7 @@ I will be logging my journey here and would learn to hear from and collaborate o
 - 🤔 I’m looking for help with Machine Learning 
 
 
-[<img src='https://github.com/Duke29/Duke29/blob/main/githubbubble-Icons8.png' alt='github' height='40'>](https://github.com/Duke29)  
-[<img src='https://github.com/Duke29/Duke29/blob/main/LinkedInbubbles-Icons8.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/sri-hari-sai-p-b2041621b//)  
-[<img src='https://github.com/Duke29/Duke29/blob/main/Instagrambubbles-Icons8.png' height='40'>](https://www.instagram.com/@sri_hari_sai/)  
-[<img src='https://github.com/Duke29/Duke29/blob/main/TwitterBubbles-Icons8.png' height='40'>](https://twitter.com/@PSriHariSai48)  
-[<img src='https://github.com/Duke29/Duke29/blob/main/kaggleBubbles-Icons8.png' height='40'>](https://www.kaggle.com/shsp1pshs)  
+[<img src='https://github.com/Duke29/Duke29/blob/main/githubbubble-Icons8.png' alt='github' height='40'>](https://github.com/Duke29)  [<img src='https://github.com/Duke29/Duke29/blob/main/LinkedInbubbles-Icons8.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/sri-hari-sai-p-b2041621b//)  [<img src='https://github.com/Duke29/Duke29/blob/main/Instagrambubbles-Icons8.png' height='40'>](https://www.instagram.com/@sri_hari_sai/)[<img src='https://github.com/Duke29/Duke29/blob/main/TwitterBubbles-Icons8.png' height='40'>](https://twitter.com/@PSriHariSai48)  [<img src='https://github.com/Duke29/Duke29/blob/main/KaggleBubbles-Icons8.png' height='40'>](https://www.kaggle.com/shsp1pshs)  
 
 
 
